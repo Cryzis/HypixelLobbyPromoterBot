@@ -1,0 +1,16 @@
+[
+{
+  "modid": "RBW",
+  "name": "RBW Logger",
+  "description": "Utilities for hypixel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "vexsystems.xyz",
+  "updateUrl": "update.vexsystems.xyz",
+  "authorList": ["Cryzis"],
+  "credits": "@verssedd",
+  "logoFile": "resources/images/Illumi.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
